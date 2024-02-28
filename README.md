@@ -51,7 +51,7 @@ Start the server
 # db screenshots
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/72417859-558e-43fc-b64d-0823e9b03446)
 
-![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/b7a6109b-2371-4751-9e73-5e33cae60022)
+![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/d9b8587c-4997-4e3d-8235-87003101397b)
 
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/b113f933-5b4f-401d-92e3-4beef7e94032)
 
