@@ -4,14 +4,9 @@ This is a typescript(powered by node) project created for admin to manage store 
 
 We are using the combination of express and postgres sql for serving clients and persisting data into the data base.
 
-#project-setup
+# project-setup
 We have dockerized the application as mentioned in one of the advane challenges in the assesment.
-
-#step 1
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Please check the following section for application setup.
 
 ## Run Locally
 
