@@ -34,7 +34,9 @@ Start the server
   docker run -p 4000:4000 stock-microservice
 ```
 
+
 # application screenshots
+
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/3fccd59b-17fe-43bb-9d47-4bf47f6c614b)
 
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/34f9400d-7782-4a93-b43f-86c3066a60ed)
@@ -49,6 +51,7 @@ Start the server
 
 
 # db screenshots
+
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/72417859-558e-43fc-b64d-0823e9b03446)
 
 ![image](https://github.com/Harshsutaria/qp-assessment/assets/55646842/d9b8587c-4997-4e3d-8235-87003101397b)
